@@ -1,0 +1,22 @@
+/* Utility Classes - anything here is a comment */
+/* Font Declaration */
+
+/*Sample CSS Class */
+
+/*! our normal standard format | THika road License | github.com/marusi */
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%; }
+  
+  body {
+    margin: 0; 
+    color: #1A1A1A;
+    background: #FFFFFF;
+   }
+
+   .header {
+       text-align: center;
+       font-size: 67px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
